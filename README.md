@@ -25,3 +25,23 @@ Local placeholder for post creation (image picker or sample images)
 Responsive layout that works on Android, iOS and Flutter Web (if enabled)
 
 If your project already implements auth, cloud storage, Firestore or other backend features, you can add short docs for them in the Setup section.
+
+
+
+## 🛠️ Tech Stack
+
+Framework: Flutter
+
+Language: Dart
+
+Platforms: Android, iOS, Web (optional)
+
+Common (optional) packages you might be using or want to add:
+
+image_picker — pick images from gallery/camera
+
+cached_network_image — optimized network images
+
+provider / riverpod — state management
+
+cloud_firestore / firebase_auth — backend (optional)
