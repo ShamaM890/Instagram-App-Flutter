@@ -45,3 +45,33 @@ cached_network_image — optimized network images
 provider / riverpod — state management
 
 cloud_firestore / firebase_auth — backend (optional)
+
+## 🚀 Getting Started
+Prerequisites
+
+Flutter SDK (stable) installed. Check the official guide: https://flutter.dev/docs/get-started/install
+
+Android Studio / Xcode (for device/emulator)
+
+## Clone the repository
+
+```bash
+
+git clone https://github.com/ShamaM890/Instagram-App-Flutter.git
+cd Instagram-App-Flutter
+
+```
+## Install packages
+```bash
+
+flutter pub get
+```
+
+## ▶️ Run the App
+
+Start an emulator (Android) or connect a device.
+
+```bash
+flutter run
+```
+
