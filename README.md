@@ -1,5 +1,7 @@
-#Instagram App (Flutter UI Clone)
-##🔎 Short description
+# Instagram App (Flutter UI Clone)
+
+
+## 🔎 Short description
 
 Instagram-App-Flutter — A Flutter-based Instagram-style UI clone intended for learning, UI/UX practice, and demonstration. This repository focuses on building a clean, responsive interface (feed, stories, profile, post creation, and basic navigation) using Flutter widgets and best-practices for structuring a medium-sized app.
 
